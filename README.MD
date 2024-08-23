@@ -1,5 +1,4 @@
-## Профессиональные IT-курсы от компании Otus
-## Курс "Natural Language Processing" (2024 г.)
+## Курс "Natural Language Processing" от компании Otus (2024 г.)
 
 https://otus.ru/lessons/nlp/
 
