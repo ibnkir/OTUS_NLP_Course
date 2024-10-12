@@ -1,4 +1,4 @@
-## Курс "Natural Language Processing" в онлайн-школе Otus (2024 г.)
+## Курс "Natural Language Processing" в онлайн-школе OTUS (2024 г.)
 
 https://otus.ru/lessons/nlp/
 
